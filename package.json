@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/jest"
+    "test": "node_modules/.bin/jest",
+    "test-anagram": "node_modules/.bin/jest anagram",
+    "test-vowels": "node_modules/.bin/jest vowels"
   },
   "jest": {
     "testEnvironment": "node"

@@ -1,0 +1,17 @@
+{
+  "name": "jsexercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "stephen grider",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
